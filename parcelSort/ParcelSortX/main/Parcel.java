@@ -14,7 +14,6 @@ public class Parcel {
     private String size;
     private int arrivalTick;
     private Status status;
-
     private int dispatchTick = -1;
     private int returnCount = 0;
 
@@ -74,7 +73,7 @@ public class Parcel {
 
     @Override
     public String toString() {
-        return String.format("Parcel[%s → %s, Prio: %d, Size: %s, ArrivalTick: %d, Status: %s]",
+        return String.format("Parcel[%s -> %s, Prio: %d, Size: %s, ArrivalTick: %d, Status: %s]",
                 parcelID, destinationCity, priority, size, arrivalTick, status);
     }
 }
