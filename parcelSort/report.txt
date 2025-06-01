@@ -1,0 +1,25 @@
+
+=== Final Statistics ===
+Total Ticks Executed: 300
+Max Queue Size: 12
+Max Stack Size: 2
+
+=== Parcel Statistics ===
+Total Parcels Generated: 594
+Successfully Enqueued Parcels: 594
+Total Dispatched Parcels: 234
+Total Returned Parcels: 37
+Parcels Still in System: 360
+
+=== City Dispatch Counts ===
+Istanbul: 41
+Ankara: 51
+Izmir: 45
+Bursa: 48
+Antalya: 49
+Total City Dispatches: 234
+Most Frequently Targeted Destination: Ankara
+Average Parcel Processing Time: 94,47 ticks
+Parcel With Longest Delay: P074 (239 ticks)
+Parcels Returned More Than Once: 6
+
